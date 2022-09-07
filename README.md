@@ -1,7 +1,7 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">Software Developer with a passion for learning</h3>
-<img alt="coding" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" width="400" />
+<img alt="coding" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" width="350" />
 
 
 
