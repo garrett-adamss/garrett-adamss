@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Trackr](https://github.com/garrett-adamss/Trackr.git)
 
-- 🌱 I’m currently learning **SQL and C#**
+- 🌱 I’m currently learning **mySQL and C#**
 
 - 👨‍💻 All of my projects going to be avaliable soon
 
