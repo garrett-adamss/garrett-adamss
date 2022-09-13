@@ -12,7 +12,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garrett-adamss&show_icons=true&locale=en" alt="garrett-adamss" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrett-adamss&label=Profile%20views&color=0e75b6&style=flat" alt="garrett-adamss" /> </p>
 
-- 🔭 I’m currently working on [LeaderBoard](https://github.com/Casey1224/LeaderBoard)
+- 🔭 I’m currently working on [Trackr](https://github.com/garrett-adamss/Trackr.git)
 
 - 🌱 I’m currently learning **SQL and C#**
 
