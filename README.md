@@ -16,10 +16,10 @@
 
 - 🌱 I’m currently learning **mySQL and C#**
 
-- 👨‍💻 All of my projects going to be avaliable soon
+<!-- - 👨‍💻 All of my projects going to be avaliable soon -->
 
-<!-- - 👨‍💻 All of my projects are available at 
-[coming soon...](coming soon...)-->
+- 👨‍💻 All of my projects are available at 
+[https://garrett-adams-portfolio.onrender.com/](https://garrett-adams-portfolio.onrender.com/)
 
 - 📫 How to reach me **garrettadams27@gmail.com**
 
