@@ -18,7 +18,7 @@
 
 <!-- - 👨‍💻 All of my projects going to be avaliable soon -->
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 Check out my portfolio here  
 [https://garrett-adams-portfolio.onrender.com/](https://garrett-adams-portfolio.onrender.com/)
 
 - 📫 How to reach me **garrettadams27@gmail.com**
