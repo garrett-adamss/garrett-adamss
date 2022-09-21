@@ -12,17 +12,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garrett-adamss&show_icons=true&locale=en" alt="garrett-adamss" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrett-adamss&label=Profile%20views&color=0e75b6&style=flat" alt="garrett-adamss" /> </p>
 
+- 👨‍💻 Check out my **portfolio** [here](https://garrett-adams-portfolio.onrender.com/)
+
 - 🔭 I’m currently working on [Trackr](https://github.com/garrett-adamss/Trackr.git)
 
 - 🌱 I’m currently learning **mySQL and C#**
 
 <!-- - 👨‍💻 All of my projects going to be avaliable soon -->
-
-- 👨‍💻 Check out my portfolio **[here](https://garrett-adams-portfolio.onrender.com/)**
-
 <!-- [https://garrett-adams-portfolio.onrender.com/](https://garrett-adams-portfolio.onrender.com/) -->
 
-- 📫 How to reach me **garrettadams27@gmail.com**
+- 📫 How to reach me **garrettadamsdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
