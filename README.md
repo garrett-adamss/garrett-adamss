@@ -14,7 +14,7 @@
 
 - 👨‍💻 Check out my **Portfolio [here](https://garrett-adams-portfolio.onrender.com/)** 
 
-- 🔭 I’m currently working on [Trackr](https://github.com/garrett-adamss/Trackr.git)
+- 🔭 I’m currently working on [BugLogger](https://github.com/garrett-adamss/buglogger)
 
 - 🌱 I’m currently learning **mySQL and C#**
 
