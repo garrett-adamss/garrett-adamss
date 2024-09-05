@@ -14,9 +14,9 @@
 
 - 👨‍💻 Check out my **Portfolio [here](https://garrett-adams-portfolio.onrender.com/)** 
 
-- 🔭 I’m currently working on [BugLogger](https://github.com/garrett-adamss/buglogger)
+- 🔭 I’m currently working at [JennAi](https://github.com/awhedon/jennai)
 
-- 🌱 I’m currently learning **mySQL and C#**
+- 🌱 I’m currently learning **AWS and CI/CD**
 
 <!-- - 👨‍💻 All of my projects going to be avaliable soon -->
 <!-- [https://garrett-adams-portfolio.onrender.com/](https://garrett-adams-portfolio.onrender.com/) -->
