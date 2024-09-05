@@ -14,7 +14,7 @@
 
 - 👨‍💻 Check out my **Portfolio [here](https://garrett-adams-portfolio.onrender.com/)** 
 
-- 🔭 I’m currently working at [JennAi](https://github.com/awhedon/jennai)
+- 🔭 I’m currently working at [JennAi](https://jennai.com/)
 
 - 🌱 I’m currently learning **AWS and CI/CD**
 
